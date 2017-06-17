@@ -1,0 +1,18 @@
+{
+  "name": "document-express-mongoose",
+  "version": "0.0.1",
+  "description": "Document the express routes and mongoose schemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "api",
+    "docs",
+    "documentation"
+  ],
+  "author": "Jay Palat <jay.palat@gmail.com>",
+  "license": "MIT"
+}
